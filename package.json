@@ -1,0 +1,15 @@
+{
+  "name": "vimes45-syntax-light",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A light theme inspired by the stories of Terry Pratchett",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/vimes45-syntax-light",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
